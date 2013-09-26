@@ -1,0 +1,9 @@
+{
+  "name": "<%= _.slugify(projName) %>",
+  "version": "0.0.0",
+  "dependencies": {
+   "mithgrid":"*",
+   "jquery":">=1.7.1"
+  }
+}
+

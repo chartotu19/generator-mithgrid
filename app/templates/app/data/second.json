@@ -1,0 +1,33 @@
+{ 
+  "entries":[
+    {
+      "id": "csv1",
+      "type": "student",
+      "name": "Linda",
+      "math": 92,
+      "science":78,
+      "english":22
+    },
+    {
+      "id": "csv2",
+      "type": "student",
+      "name": "Selvam",
+      "math":65,
+      "science": 92,
+      "english":60
+    },{
+      "id": "csv3",
+      "type": "student",
+      "name" : "Helen",
+      "math": 90,
+      "science":85,
+      "english":82
+    },{
+      "id": "csv9",
+      "type": "teacher",
+      "teachs":"English",
+      "name": "Dennis",
+      "age":42
+    }
+  ]
+}

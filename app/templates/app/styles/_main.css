@@ -1,0 +1,34 @@
+body{
+  padding-top: 60px;
+  /*font-family: 'Exo', sans-serif;*/
+  /*font-family: 'Wire One', sans-serif;*/
+  font-family: 'roboto', serif;
+}
+
+.rows > div{
+  float: left;
+  margin-left: 10%;
+
+}
+
+.title{
+  text-align: center;
+}
+
+@font-face{
+  font-family: 'roboto';
+  src:url('Roboto-Thin.ttf');
+
+}
+
+.data{
+  background-color: steelblue;
+  padding: 1%;
+  color:white;
+}
+
+
+#students > table > tbody > tr > th , #teachers > table > tbody > tr > th{
+  padding: 10px;
+  border:1px solid #ccc;
+}

@@ -1,0 +1,39 @@
+{ 
+  "entries":[
+    {
+      "id": "csv4",
+      "type": "student",
+      "name": "Andrew",
+      "math": 60,
+      "science":45,
+      "english":80
+    },{
+      "id": "csv5",
+      "type": "student",
+      "name": "Aman",
+      "math": 95,
+      "science":92,
+      "english":32
+    },{
+      "id": "csv6",
+      "type": "student",
+      "name": "Karim",
+      "math": 74,
+      "science":88,
+      "english":90
+    },{
+      "id": "csv7",
+      "type": "teacher",
+      "teachs":"Science",
+      "name": "Mark",
+      "age":45
+
+    },{
+      "id": "csv8",
+      "type": "teacher",
+      "teachs":"Math",
+      "name": "Derrick",
+      "age":35
+    }
+  ]
+}
